@@ -65,7 +65,7 @@ body {
     z-index: -2;
 }
 
-.admins, .support, .pay {
+.admins, .support, .pay, .dwnl {
     font-size: 16pt;
     font-weight: 600;
     color: #DEE2E6;
@@ -73,6 +73,22 @@ body {
     margin-right: 30px;
     text-decoration: none;
 }
+
+
+
+.bar:hover {
+    font-size: 16pt;
+    font-weight: 600;
+    color: #c0c2c4;
+    margin-top: 10px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+
+.transition {
+    transition: 0.3s;
+  }
 
 .container-2 {
     display: flex;
