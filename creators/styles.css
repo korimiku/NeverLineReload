@@ -98,3 +98,20 @@ body {
 .container-1 {
     margin-right: 145px;
 }
+
+.container-3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+    margin-right: 500px;
+}
+
+
+.img-creators {
+    height:  100px;
+    width:  100px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
