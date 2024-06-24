@@ -276,7 +276,7 @@ body {
 
     
     .admins, .support, .pay, .dwnl {
-        font-size: 8pt;
+        font-size: 11pt;
         font-weight: 600;
         color: #DEE2E6;
         margin-top: 10px;
@@ -284,7 +284,7 @@ body {
     }
 
     .bar:hover {
-        font-size: 8pt;
+        font-size: 11pt;
         font-weight: 600;
         color: #c0c2c4;
         margin-top: 10px;
@@ -362,7 +362,7 @@ body {
     
     .nav-bar-link {
         margin-top: 50px;
-        font-size: 8pt;
+        font-size: 11pt;
         font-weight: 600;
         color: #DEE2E6;
         position: relative;
